@@ -17,6 +17,7 @@ class LogInViewC: UIViewController {
     // TODO: VIEW DID LOAD METHOD
     override func viewDidLoad() {
         super.viewDidLoad()
+        self.initialSetup()
     }
     
     // TODO: DEINIT

@@ -6,3 +6,7 @@
 //
 
 import Foundation
+extension LogInViewC {
+    internal func initialSetup(){
+    }
+}
